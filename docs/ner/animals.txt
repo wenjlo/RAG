@@ -1,0 +1,226 @@
+
+-------------------------------
+以下是所有實體為<動物>的名稱,如果不在下列舉例裡面,不能夠辨識成<動物>
+horse  馬
+mare 母馬
+colt, foal 馬駒,小馬
+pony 矮馬
+thoroughbred 純種馬
+mustang 野馬
+mule 騾
+ass, donkey 驢
+
+
+ox 牛
+buffalo 水牛
+bull 公牛
+cow 母牛
+calf 小牛, 牛犢
+bullock, steer 小閹牛
+heifer 小母牛
+
+
+pig, swine 豬
+boar 種豬
+hog 閹豬, 肥豬
+gilt 小母豬
+piglet 豬崽
+
+
+sheep 羊
+ewe 母羊
+goat 山羊
+lamb 羊羔,羔羊
+zebra 斑馬
+antelope 羚羊
+gazelle 小羚羊
+
+
+deer 鹿
+reindeer 馴鹿
+giraffe 長頸鹿
+
+
+camel 駱駝
+dromedary 單峰駝
+
+
+llama 大羊駝
+guanaco 原駝
+alpaca 羊駝
+vicuna 小羊駝
+
+
+elephant 象
+rhinoceros 犀牛
+hippopotamus 河馬
+
+
+cat 貓
+tabby, she-cat, grimalkin 雌貓
+tomcat 雄貓, 公貓
+kitten, kitty, pussy 小貓
+lion 獅
+lynx 猞猁
+panther, puma 美洲豹
+leopard 豹
+tiger 虎
+wildcat 野貓
+
+
+bison 美洲野牛
+yak 犛牛
+
+
+dog 狗
+badger 獾
+weasel 鼬,黃鼠狼
+otter 水獺
+fox 狐
+hyena, hyena 鬣狗
+wolf 狼
+
+
+squirrel 松鼠
+dormouse 睡鼠
+beaver 河貍
+marmot 土撥鼠
+ferret 雪貂
+
+
+bear 熊
+rabbit 兔子
+hare 野兔
+
+
+rat 鼠
+chinchilla 南美栗鼠
+gopher 囊地鼠
+Guinea pig 豚鼠
+marmot 土撥鼠
+mole 鼴鼠
+mouse 家鼠
+vole 田鼠
+
+
+monkey 猴子
+chimpanzee 黑猩猩
+gorilla 大猩猩
+orangutan 猩猩
+gibbon 長臂猿
+sloth 獺猴
+
+
+anteater 食蟻獸
+duckbill, platypus 鴨嘴獸
+kangaroo 袋鼠
+koala樹袋熊
+hedgehog 刺蝟
+porcupine 箭豬, 豪豬
+bat 蝙蝠
+armadillo 犰狳
+
+
+whale 鯨
+dolphin 河豚
+porpoise 大西洋鼠海豚
+seal 海豹
+walrus 海象
+
+eagle 鷹
+bald eagle 白頭鷹
+condor 禿鷹
+hawk, falcon 隼
+heron 蒼鷹
+golden eagle 鷲
+kite 鷂
+vulture 禿鷲
+cock 公雞
+hen 母雞
+chicken 雞, 雛雞
+guinea, fowl 珍珠雞
+turkey 火雞
+peacock 孔雀
+duck 鴨
+mallard 野鴨, 鳧
+teal 小野鴨
+gannet 塘鵝
+goose 鵝
+pelican 鵜鶘
+cormorant 鸕鷀
+swan 天鵝
+cob 雄天鵝
+cygnet 小天鵝
+gander, wild goose 雁
+dove 鴿
+pigeon 野鴿
+turtle dove 斑鳩
+pheasant 雉, 野雞
+grouse 松雞
+partridge 石雞, 鷓鴣
+ptarmigan 雷鳥
+quail 鵪鶉
+ostrich 鴕鳥
+stork 鸛
+woodcock 山鷸
+snipe 鷸
+gull, seagull 海鷗
+albatross 信天翁
+kingfisher 翠鳥
+bird of paradise 極樂鳥, 天堂鳥
+woodpecker 啄木鳥
+parrot 鸚鵡
+cockatoo 大葵花鸚鵡
+macaw 金剛鸚鵡
+parakeet 長尾鸚鵡
+cuckoo 杜鵑,布穀鳥
+crow 烏鴉
+blackbird 烏鶇
+magpie 喜鵲
+swallow 燕子
+sparrow 麻雀
+nightingale 夜鶯
+canary 金絲雀
+starling 八哥
+thrush 畫眉
+goldfinch 金翅雀
+chaffinch 蒼頭燕雀
+robin 知更鳥
+plover 千鳥
+lark 百鳥,雲雀
+swift 褐雨燕
+whitethroat 白喉雀
+hummingbird 蜂雀
+penguin 企鵝
+owl 梟,貓頭鷹
+scops owl 角梟,耳鳥
+
+snake 蛇
+adder, viper 蝰蛇
+boa 王蛇
+cobra 眼鏡蛇
+copperhead 美洲腹蛇
+coral snake 銀環蛇
+grass snake 草蛇
+moccasin 嗜魚蛇
+python 蟒蛇
+rattlesnake 響尾蛇
+lizard 蜥蜴
+tuatara 古蜥蜴
+chameleon 變色龍,避役
+iguana 鬣蜥
+wall lizard 壁虎
+salamander, triton, newt 蠑螈
+giant salamander 娃娃魚, 鯢
+
+
+crocodile 鱷魚, 非洲鱷
+alligator 短吻鱷, 美洲鱷
+caiman, cayman 凱門鱷
+gavial 印度鱷
+turtle 龜
+tortoise 玳瑁
+sea turtle 海龜
+frog 青蛙
+bullfrog 牛蛙
+toad 蟾蜍

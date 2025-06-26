@@ -1,0 +1,9 @@
+document description:
+    這是一份動物園的Mysql資料文件,裡面記錄各個動物近來動物園的時間以及數量
+
+ CREATE TABLE Animals (
+    data_date TIMESTAMP CURRENT_TIMESTAMP COMMENT '動物進來動物園的時間'
+    animal_id INT AUTO_INCREMENT PRIMARY KEY COMMIT "動物ID",
+    animal_name varchar(255) NOT NULL UNIQUE COMMENT '動物名稱',
+    quantity INT NOT NULL COMMENT "動物數量"
+);
