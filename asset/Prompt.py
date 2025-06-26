@@ -25,7 +25,7 @@ Please answer the question in Chinese.
         self.ner_prompt = f"""You are a smart and intelligent Named Entity Recognition (NER) system.
 Your job is to recognize entities from sentence and insert entities in front of the words and
 identify the date and add the year if the date does not include a year.
-The entities that must be identified are <動物>
+The entities that must be identified are <動物>、<日期>
 If an entity is found to already exist in the sentence, there is no need to insert entities in front of the words.
 If the date in the sentence does not have a year, please enter {str(datetime.datetime.now().year)}. 
 If it does have a year, please keep the original date without any modification.
