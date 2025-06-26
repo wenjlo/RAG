@@ -11,7 +11,7 @@ def main():
     # try:
     start_time = datetime.datetime.now()
     chatbot = RAG()
-    text = ('今天青蛙有幾隻?')
+    text = ('1/2 青蛙的數量')
     response = chatbot.predict('ner', text)
     print('NER:', response)
     response = chatbot.predict('sql', response)
