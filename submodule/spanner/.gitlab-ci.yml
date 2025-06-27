@@ -1,0 +1,18 @@
+stages:
+  - "test"
+
+test:
+  image: python:3.11
+  tags:
+    - cdp-bbin-common
+  stage: test
+  script:
+    - pip install --upgrade pip
+    - pip install -r requirements.txt
+    - |
+      if [ "$CI_COMMIT_REF_PROTECTED" == "true" ] && [ "$CI_COMMIT_BRANCH" != "master" ]; then
+        cp build-config/$CI_COMMIT_BRANCH/* .
+      fi
+    - python -m pytest --cov=spanner --cov-report=term-missing --cov-fail-under=90
+  rules:
+    - if: $CI_PIPELINE_SOURCE == 'merge_request_event'
